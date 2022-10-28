@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # DirectCosineMatrices [ru]
 Jupyter-заметка для валидации матриц направляющих косинусов и последовательностей поворотов. В символьном виде с помощью пакета sympy рассчитаны матрицы перехода между основными системами координат динамики полёта, теории управления и баллистики:
